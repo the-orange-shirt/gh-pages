@@ -12,3 +12,10 @@ source/stylesheets/screen.css
 vendor
 node_modules
 Gemfile.lock
+
+# emacs backup files
+*~
+# jekyll directories not tracked as part of the octopress installation.
+doc/
+sass/
+source/
