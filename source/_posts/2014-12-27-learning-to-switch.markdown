@@ -30,7 +30,7 @@ about you, and then tells you where, when, and with whom to switch.
 
 People have various notions of what it means to be an experienced
 dancer.  Here's
-[mine](/blog/2014/12/28/defining-the-experienced-dancer):
+[mine]({% post_url 2014-12-28-defining-the-experienced-dancer %})
 
 * you understand weight and timing
 * for all the figures called during a typical night at your local
@@ -68,7 +68,7 @@ set is not going to fall apart around me.
 
 In my experience, non-experienced gender-free contras are also
 not good places to start switching.  I've written more about this
-[elsewhere](/blog/2014/12/28/switching-roles-at-gender-free-contra),
+[elsewhere]({% post_url 2014-12-28-switching-roles-at-gender-free-contra %}),
 but briefly, the slogan "places not faces" assumes that people know
 where the places are, and that has not been my experience.  If you
 would like to support gender-free contra, I currently think
@@ -91,24 +91,30 @@ I went through three stages:
 #### With whom to dance?  Look for buttons and women.
 
 First of all, most people don't take it amiss when I ask, "Do you ever
-switch roles?"  But if you'd like to improve your chances of getting
-an affirmative answer:
+switch roles?"  But if you're in a big room of strangers and you'd
+like to guess which ones are likely to say yes, here are a couple of
+completely unscientific heuristics I've developed.
 
-One excellent predictor is a dance button that says the wearer can
-switch.  I've seen three versions:
+One excellent heuristic is to look for a dance button that says the
+wearer can switch.  I've seen three versions:
 
 - white, "Would you like to lead or follow?"
 - rainbow stripes,"What's your preference?  I dance both roles."
 - white with a black pointer that can be moved between "Lead,"
   "Follow," and "Switch."
   
-A less reliable predictor is being a woman.  At many dances, there are
-more women than men, and some women will learn the gent's role just to
-avoid sitting out.  It helps that it is often more acceptable for two
-women to dance together than two men.
+A less reliable heuristic is to look for a woman.  At many dances,
+there are more women than men, and some women will learn the gent's
+role just to avoid sitting out.  It helps that it is often more
+acceptable for two women to dance together than two men.
 
 But, again, most people don't take it amiss if I ask, "Do you ever
 switch roles?"  So it's often worth asking.
+
+<small> This section is probably where my male bias is most evident.
+Women looking to practice the gent's role can, of course, just ask any
+woman.  Although I'm told they rarely get an opportunity to look
+around the room and pick a partner. </small>
 
 ## How to switch, by figure
 
@@ -145,8 +151,8 @@ that I invented any of these myself.
   
 * End the swing facing out, then turn alone to face in switched.
   Although if I just end the swing facing out, sometimes people think
-  it was accidental and try to fix it.  Often, I add a flourish that
-  isn't strange to do facing out, e.g.,
+  it was accidental and try to fix it.  I try to head this off by
+  adding a flourish that isn't strange to do facing out, e.g.,
   
   - swing in a cuddle, shallow side dip facing out, twirl out of the
     cuddle in (switched) place
@@ -200,15 +206,17 @@ that I invented any of these myself.
   rarely have success putting in a balance, probably because a pull by
   is two beats and the usual balance takes four.
 
-* I don't often try to add half-turns to allemande, gypsy, and do si
-  do because that often ends up feeling rushed.  Given eight beats and
-  good weight, I can squeeze in an extra half-turn of an allemande,
-  but it feels distinctly different from the original allemande, and
-  presumably from the rest of the dance.  I actually don't think I can
-  reliably gypsy or do-si-do once and a half in eight beats.  Maybe if
-  the tempo were slow to start with.
+* Add a half-turn to an allemande, gypsy, or do-si-do.  A gypsy can be
+  done faster by taking hands; it still "feels" like a gypsy if you
+  maintain eye contact.  A do-si-do can be done faster without
+  twirling.  If it's still too slow, substitute a swing.
   
 #### Contra corners 
+
+Switching during contra corners is usually unproductive, since this
+figure almost always leads into a partner swing.  Also, you run the
+risk of confusing your corners, without whose assistance you may not
+be able to complete the figure.  But when it works, it's *so* cool.
 
 * Enter with a riccochet while twirling over one's left shoulder into
   an allemande left with partner's first corner.  This one is hard.
@@ -246,5 +254,5 @@ that I invented any of these myself.
 #### Misc
 
 * Riccochet with partner during a hey.
-  
+
 * Enter a couple zig-zag with a roll-away, no half chasse.
