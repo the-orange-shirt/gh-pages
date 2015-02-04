@@ -34,7 +34,7 @@ People have various notions of what it means to be an experienced dancer.  Here'
 
 #### Where to practice?  Weekends and experienced events.
 
-I assume your local dance doesn't have a lot of people who switch, or that you don't know who they are.  Otherwise, you should go talk with them instead of reading this.  Or better yet, ask them to dance.
+Your local dance probably already has a few people who switch, even if they don't during the regular dances.  If you mention during the break that you'd like to learn the other role, it's very likely that someone will offer to help.
 
 But if your local dance doesn't have a practice of switching, and regulars who switch, I recommend you practice at weekends and other experienced events first.  This might seem counter-intuitive, because weekends also feature more complicated choreography.  I've found complicated choreography to be less of a hindrance than unhelpful neighbors.
 
