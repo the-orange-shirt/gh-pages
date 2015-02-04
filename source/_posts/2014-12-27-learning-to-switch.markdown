@@ -15,6 +15,9 @@ I assume you don't need to be convinced to try switching.  Instead, I'll start w
 
 Comments are very welcome.  I don't claim to know a particularly great deal about this, only more than anyone else who's bothered to write about it on the internet, as the empty set has no counter-examples.
 
+* table of contents
+{:toc}
+
 ## Learning to switch
 
 This is the part where a stranger on the internet make assumptions about you, and then tells you where, when, and with whom to switch.
